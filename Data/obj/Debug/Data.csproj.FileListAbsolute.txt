@@ -1,0 +1,13 @@
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.dll.config
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.pdb
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.pdb
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.xml
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.pdb

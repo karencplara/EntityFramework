@@ -1,0 +1,6 @@
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.pdb
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.dll
+C:\Users\karen\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.pdb
